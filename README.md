@@ -1,10 +1,8 @@
 # TestSync
-An experiment for syncing an internal and an external Git repostory
-
 I was asked to reserach a way to keep to Git repositories in sync. One in
-GitHub and one in Azure DevOps.  Both repositories can accept pull requests.
+GitHub and one in Azure DevOps.  Both repositories require pull requests.
 
-
-Settings for this repo include
+Settings for the repo on GitHub includes:
 * Allow anyone to contribute (not just collaborators)
-* Require pull requests
+* Require pull requests, with the exception for Administrators
+
